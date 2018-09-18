@@ -1,0 +1,10 @@
+#page-title {
+display:block;
+position:relative;
+color: #336600;
+}
+
+.p-content {
+  display:inline-block;
+  font-size: 6em;
+}
